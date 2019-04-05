@@ -71,6 +71,7 @@ A curated list of [free/libre](https://www.gnu.org/philosophy/free-sw.html) game
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - Minecraft-like voxel terrain demo.
 - [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
+- [pongit](https://github.com/thzero/PongIt) - 2D network pong, based on the Godot demo, with additional network functionality and menus.
 
 ## Tutorials
 
